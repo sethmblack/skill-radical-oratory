@@ -3,8 +3,9 @@ name: radical-oratory
 description: Transform deferential or hedged communication into fearless, direct speech that addresses power as an equal.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4787
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - radical-oratory
 - transformation
