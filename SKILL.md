@@ -4,7 +4,7 @@ description: Transform deferential or hedged communication into fearless, direct
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4787
+  version: 1.0.4788
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - radical-oratory
